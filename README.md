@@ -10,7 +10,7 @@ Matplotlib – for data visualization
 
 -> Repository Contents
 
-Projekt.ipynb
+Projekt_HC.ipynb
 A Jupyter Notebook that includes the full data analysis in code.
 
 wig_d.csv
